@@ -3,3 +3,5 @@ tmp/
 *_backup
 /.DS_Store
 Thumbs.db
+tmp/
+Thumbs.db
